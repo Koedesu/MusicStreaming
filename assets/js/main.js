@@ -7,7 +7,7 @@ play.style.display = "none";
 pause.style.display = "none";
 load.style.display = "block";
 
-player.play();
+//player.play();
 
 player.addEventListener('playing', function(){
     play.style.display = "block";
